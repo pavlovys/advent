@@ -1,4 +1,4 @@
-package advent2024.day1
+package advent2024.solutions
 
 import advent2024.DataReader
 
